@@ -28,6 +28,7 @@ header {
 }
 .logo {
   max-width: 90px;
+  
 
 }
 .navigation {
@@ -55,8 +56,9 @@ header {
 }
 .content .text h2 {
   color: #fff;
-  font-size: 5em;
+  font-size: 4em;
   font-weight: 300;
+  margin-top: 0.6cm;
 }
 .content .text h2 span {
   font-weight: 700;
